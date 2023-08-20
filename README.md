@@ -1,3 +1,6 @@
+
+<img width="298" alt="image" src="https://github.com/wang1309/gcache/assets/20272951/6f811e8c-8dc8-4340-9493-292f15841bd2">
+
 #### What is gcache？
 
 gcache is a high-performance Go language implementation of a cache library. It is easy to use and  understand
